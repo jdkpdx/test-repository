@@ -9,3 +9,9 @@
     Code
 
 Regular text
+
+_Making more changes - these are underlined_
+
+__And these are bold__
+
+__These are _underlined and bold_ __
